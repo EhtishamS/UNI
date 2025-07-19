@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "b5ed0305a6df8a40",
+    "type": "split",
+    "children": [
+      {
+        "id": "fade28d50e07e578",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d9f55eba9220e31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Main Notes/Funzioni invertibili.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Funzioni invertibili"
+            }
+          },
+          {
+            "id": "0dfdfacf8db44e24",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "7. Extra/mathsymbols.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "mathsymbols"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "feb5b0764e0357bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "58426742c548691f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf9bf88ef926dea7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "86e83c95be653c21",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f98c215a0b93ce03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc26993851529e08",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb538814bcad6eb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "193af2025b19ae8c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "7. Extra/mathsymbols.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for mathsymbols"
+            }
+          },
+          {
+            "id": "b2e9e8511eef76a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "7. Extra/mathsymbols.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from mathsymbols"
+            }
+          },
+          {
+            "id": "c0fd8734117c8d7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "215e254fe9e907e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6. Main Notes/Funzioni invertibili.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Funzioni invertibili"
+            }
+          },
+          {
+            "id": "75c4bf8a61246a33",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "5dd0b5799a5cbe18",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "bc325d2106c23a2e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5dd0b5799a5cbe18",
+  "lastOpenFiles": [
+    "6. Main Notes/Funzioni invertibili.md",
+    "6. Main Notes/co.md",
+    "6. Main Notes/l.md",
+    "7. Extra/mathsymbols.pdf",
+    "6. Main Notes/in.md",
+    "6. Main Notes/colll.md",
+    "6. Main Notes/Funzioni iniettive, suriettive e biiettive.md",
+    "7. Extra/funzione_biiettiva_esempio.excalidraw.md",
+    "7. Extra/Untitled.md",
+    "7. Extra/funzione_iniettiva_esempio.excalidraw.md",
+    "7. Extra/funzione_suriettiva_esempio.excalidraw.md",
+    "7. Extra/funzione_esempio.excalidraw.md",
+    "6. Main Notes/Insiemi.md",
+    "6. Main Notes/Proprietà delle operazioni tra insiemi.md",
+    "6. Main Notes/e.md",
+    "6. Main Notes/cup.md",
+    "6. Main Notes/Operazioni tra gli insiemi.md",
+    "6. Main Notes/Prodotto cartesiano.md",
+    "7. Extra/differenza_insiemi.excalidraw.md",
+    "7. Extra/differenza_simmetrica_insiemi.excalidraw.md",
+    "7. Extra/unione_insiemi.excalidraw.md",
+    "7. Extra/complementare_insiemi.excalidraw.md",
+    "7. Extra/intersezione_insiemi.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-18 10.41.08.excalidraw.md",
+    "Excalidraw",
+    "6. Main Notes/Untitled 1.md",
+    "6. Main Notes/Untitled 2.md",
+    "6. Main Notes/c.md",
+    "7. Extra/Pasted image 20250717090026.jpg",
+    "7. Extra/Pasted image 20250717090015.jpg",
+    "7. Extra/Pasted image 20250715135858.png",
+    "7. Extra/Pasted image 20250715135813.png",
+    "Pasted image 20250715135602.png",
+    "SR/memory",
+    "SR",
+    "7. Extra/Non confermato 965413.crdownload",
+    "7. Extra",
+    "6. Main Notes",
+    "5. Template",
+    "4. Indexes",
+    "3. Tags"
+  ]
+}
